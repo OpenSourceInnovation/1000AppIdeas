@@ -13,7 +13,7 @@
 8. [Content Publishing](/Ideas/Overview.md#content-publishing)
 9. [Food and Agriculture](/Ideas/Overview.md#food-and-agriculture)
 10. [Customer Support](/Ideas/Overview.md#customer-support)
-(/Ideas/Overview.md#finance)
+<!-- (/Ideas/Overview.md#finance)
 (/Ideas/Overview.md#metaverse)
 (/Ideas/Overview.md#cybersecurity)
 (/Ideas/Overview.md#social-commerce)
@@ -51,4 +51,4 @@
 (/Ideas/Overview.md#anonymous)
 (/Ideas/Overview.md#influencer-economy)
 (/Ideas/Overview.md#parents)
-(/Ideas/Overview.md#trading-apps)
+(/Ideas/Overview.md#trading-apps) -->
